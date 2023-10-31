@@ -1,7 +1,9 @@
 p {
   font-size: 16px;
 }
-
+.grey.darken-4 {
+  background-color: #6E40F3 !important;
+}
 h4 {
   padding-bottom: 2%;
 }
@@ -58,7 +60,7 @@ h4 {
 .staff i {
   font-size: 25px;
   margin: 0px .5% 0px .5%;
-  color: #212121;
+  color: #6E40F3;
 }
 
 .staff i:hover {
